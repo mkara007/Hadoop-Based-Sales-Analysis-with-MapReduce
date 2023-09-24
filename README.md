@@ -1,2 +1,2 @@
-# Hadoop-Based-Sales-Analysis-with-MapReduce
+# Hadoop Based Sales Analysis with MapReduce
 Tech Stack: Hadoop, HDFS, Java, Docker
